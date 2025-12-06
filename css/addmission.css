@@ -111,3 +111,20 @@ h2 {
     margin-bottom: 12px;
     text-align: center;
 }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 12px;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 12px;
+    text-align: center;
+}
+
+th {
+    background: #004aad;
+    color: white;
+}
