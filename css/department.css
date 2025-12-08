@@ -175,3 +175,25 @@ nav {
     margin: 0;
     line-height: 1.4;
 }
+
+.future-grid {
+    display: flex;       
+    gap: 1rem;             
+    justify-content: center; 
+    flex-wrap: wrap;        
+    margin: 2rem 0;          
+}
+.tech-card {
+    width: 200px;                
+    height: 200px;               
+    padding: 1rem;              
+    border-radius: 16px;
+    background: linear-gradient(135deg, var(--color-surface), rgba(59,130,246,0.05));
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: 1px solid var(--color-border);
+    transition: 0.4s;
+}
