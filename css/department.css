@@ -224,3 +224,43 @@ nav {
     transition: 0.4s;
 }
 
+.learning-card p {
+    font-size: 1;
+    margin: 0.3 0;
+}
+
+@media (max-width: 1024px) {
+    nav {
+        gap: 200px; 
+    }
+
+    .hero h1 {
+        font-size: 3rem;
+    }
+
+    .hero-subtitle {
+        font-size: 1.2rem;
+    }
+
+    .my-video {
+        width: 90%;
+        max-width: 600px;
+    }
+
+    .skill-item,
+    .tech-card,
+    .learning-card {
+        width: 150px;
+        height: 150px;
+        padding: 0.8rem;
+    }
+
+    .skills-grid {
+        gap: 0.8rem;
+    }
+
+    .future-grid,
+    .learning-grid {
+        gap: 0.8rem;
+    }
+}
