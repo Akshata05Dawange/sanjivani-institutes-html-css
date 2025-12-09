@@ -1,5 +1,5 @@
 Sanjivani Institute!!
-![images](images/sanjivani%20institutes-logo.png)
+![alt text](image.png)
 ![images](images/college.png)
 
 ## 📌 Features of the Website
